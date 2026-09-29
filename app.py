@@ -24,7 +24,7 @@ def main():
     elif choice == "3":
         print("Thank you for using the Student Learning Portal.")
     else:
-        print("Invalid choice.")
+        print("Invalid choice. Please select 1, 2, or 3.")
 
 
 if __name__ == "__main__":
